@@ -2,7 +2,18 @@
   <div>
     <h1>Hello world - this is marius!</h1>
     <h1>This is marius homepage</h1>
-    <p>Here you can play fun games -Coming soon!</p>
+    <p>Here you can play the fun game Duck hunt:</p>
+  </div>
+  <div>
+    <iframe
+      src="https://scratch.mit.edu/projects/888272044/embed"
+      allowtransparency="true"
+      width="640"
+      height="480"
+      frameborder="0"
+      scrolling="no"
+      allowfullscreen
+    ></iframe>
   </div>
 </template>
 
