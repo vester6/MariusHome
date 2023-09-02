@@ -8,8 +8,8 @@
     <iframe
       src="https://scratch.mit.edu/projects/888272044/embed"
       allowtransparency="true"
-      width="640"
-      height="480"
+      width="100%"
+      height="480px"
       frameborder="0"
       scrolling="no"
       allowfullscreen
